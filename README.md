@@ -1,4 +1,4 @@
-# vue-novel
+# vue-scaffold
 
 ## Project setup
 ```
